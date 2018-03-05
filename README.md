@@ -5,7 +5,7 @@
 
 :book:  Course information: https://www.sololearn.com/Course/javascript/
 
-Each lesson consisted of theory, code examples, multiple choice quizzes & coding exercises. 
+Each lesson consisted of theory, code examples, multiple choice quizzes & coding exercises.
 - [x] Denotes lesson completed.
 
 ## Curriculum: 
@@ -25,7 +25,7 @@ Each lesson consisted of theory, code examples, multiple choice quizzes & coding
     1. [x] Comparison Operators
     1. [x] Logical or Boolean Operators
     1. [x] String Operators
-    1. [x] Module 2 Quiz *(3 Multiple Choice & Coding Quizzes)*   
+    1. [x] Module 2 Quiz *(3 Multiple Choice & Coding Quizzes)*
 
 1. **Module 3: Conditionals and Loops**
     1. [x] The if Statement
