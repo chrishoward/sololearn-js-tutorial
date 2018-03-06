@@ -1,0 +1,14 @@
+#container {
+    position: relative;
+    background: green;
+    width: 200px;
+    height: 200px;
+}
+
+#box {
+    position: absolute;
+    background: red;
+    width: 30px;
+    height: 30px;
+    left: 0px;
+}
